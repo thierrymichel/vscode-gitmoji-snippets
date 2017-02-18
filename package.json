@@ -5,8 +5,8 @@
   "description": "Easy-to-use emojis for your commit messages",
   "icon": "images/gitmoji-icon.gif",
   "galleryBanner": {
-    "color": "#ffdd67",
-    "theme": "dark"
+    "color": "#ffdd4c",
+    "theme": "light"
   },
   "version": "0.1.0",
   "engines": { "vscode": "1.9.x" },
