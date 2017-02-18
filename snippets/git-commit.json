@@ -1,0 +1,174 @@
+{
+  "🎉 Initial commit": {
+    "prefix": ":release",
+    "body": ":tada: initial commit $1"
+  },
+  "✨ Introducing new features": {
+    "prefix": ":add",
+    "body": ":sparkles: added $1"
+  },
+  "📝 Writing docs": {
+    "prefix": ":doc",
+    "body": ":memo: $1"
+  },
+  "✏️ Fixing typos": {
+    "prefix": ":fix",
+    "body": ":pencil2: fixed $1"
+  },
+  "🐛 Fixing a bug": {
+    "prefix": ":fix",
+    "body": ":bug: fixed $1"
+  },
+  "💄 Updating the UI and style files": {
+    "prefix": ":update",
+    "body": ":lipstick: updated $1"
+  },
+  "🍱 Adding assets": {
+    "prefix": ":add",
+    "body": ":bento: added $1"
+  },
+  "🍱 Updating assets": {
+    "prefix": ":update",
+    "body": ":bento: updated $1"
+  },
+  "🎨 Improving structure / format of the code": {
+    "prefix": ":code",
+    "body": ":art: improved $1"
+  },
+  "⚡️ Improving performance": {
+    "prefix": ":update",
+    "body": ":zap: improved $1"
+  },
+  "👌 Updating code due to code review changes": {
+    "prefix": ":code",
+    "body": ":ok_hand: updated $1"
+  },
+  "🚧 Work in progress": {
+    "prefix": ":wip",
+    "body": ":construction: $1"
+  },
+  "🔨 Refactoring code": {
+    "prefix": ":code",
+    "body": ":hammer: refactored $1"
+  },
+  "🔥 Removing code": {
+    "prefix": ":code",
+    "body": ":fire: removed $1"
+  },
+  "🔥 Removing files": {
+    "prefix": ":remove",
+    "body": ":fire: removed $1"
+  },
+  "🚚 Moving or renaming files": {
+    "prefix": ":update",
+    "body": ":truck: $1"
+  },
+  "🔧 Changing configuration files": {
+    "prefix": ":update",
+    "body": ":wrench: $1"
+  },
+  "➕ Adding a dependency": {
+    "prefix": ":add",
+    "body": ":heavy_plus_sign: $1"
+  },
+  "➖ Removing a dependency": {
+    "prefix": ":remove",
+    "body": ":heavy_minus_sign: $1"
+  },
+  "⬆️ Upgrading dependencies": {
+    "prefix": ":update",
+    "body": ":arrow_up: $1"
+  },
+  "⬇️ Downgrading dependencies": {
+    "prefix": ":update",
+    "body": ":arrow_down: $1"
+  },
+  "🚀 Deploying stuff": {
+    "prefix": ":release",
+    "body": ":rocket: $1"
+  },
+  "🔖 Releasing / Version tags": {
+    "prefix": ":release",
+    "body": ":bookmark: $1"
+  },
+  "📈 Adding analytics or tracking code": {
+    "prefix": ":add",
+    "body": ":chart_with_upwards_trend: $1"
+  },
+  "✅ Adding tests": {
+    "prefix": ":add",
+    "body": ":white_check_mark: $1"
+  },
+  "💥 Introducing breaking changes": {
+    "prefix": ":update",
+    "body": ":boom: $1"
+  },
+  "🚑 Critical hotfix": {
+    "prefix": ":fix",
+    "body": ":ambulance: $1"
+  },
+  "🔒 Fixing security issues": {
+    "prefix": ":fix",
+    "body": ":lock: $1"
+  },
+  "🍎 Fixing something on macOS": {
+    "prefix": ":fix",
+    "body": ":apple: $1"
+  },
+  "🐧 Fixing something on Linux": {
+    "prefix": ":fix",
+    "body": ":penguin: $1"
+  },
+  "🏁 Fixing something on Windows": {
+    "prefix": ":fix",
+    "body": ":checkered_flag: $1"
+  },
+  "💚 Fixing CI Build": {
+    "prefix": ":ci",
+    "body": ":green_heart: $1"
+  },
+  "👷 Adding CI build system": {
+    "prefix": ":ci",
+    "body": ":construction_worker: $1"
+  },
+  "🚨 Removing linter warnings": {
+    "prefix": ":code",
+    "body": ":rotating_light: $1"
+  },
+  "🐳 Work about Docker": {
+    "prefix": ":docker",
+    "body": ":whale: $1"
+  },
+  "🌐 Internationalization and localization": {
+    "prefix": ":lang",
+    "body": ":globe_with_meridians: $1"
+  },
+  "💩 Writing bad code that needs to be improved": {
+    "prefix": ":code",
+    "body": ":hankey: $1"
+  },
+  "⏪ Reverting changes": {
+    "prefix": ":remove",
+    "body": ":rewind: $1"
+  },
+  "🔀 Merging branches": {
+    "prefix": ":update",
+    "body": ":twisted_rightwards_arrows: $1"
+  },
+  "📦 Updating compiled files or packages": {
+    "prefix": ":update",
+    "body": ":package: $1"
+  },
+  "👽 Updating code due to external API changes": {
+    "prefix": ":update",
+    "body": ":alien: $1"
+  },
+  "📄 Adding license": {
+    "prefix": ":add",
+    "body": ":page_facing_up: $1"
+  },
+  "📄 Updating license": {
+    "prefix": ":update",
+    "body": ":page_facing_up: $1"
+  }
+}
