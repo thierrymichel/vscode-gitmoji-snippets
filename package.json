@@ -1,34 +1,38 @@
 {
-  "name": "vscode-gitmoji-snippets",
-  "publisher": "thierrymichel",
-  "displayName": "Gitmoji snippets",
-  "description": "Easy-to-use emojis for your commit messages",
-  "icon": "images/gitmoji-icon.gif",
-  "galleryBanner": {
-    "color": "#ffdd4c",
-    "theme": "light"
-  },
-  "version": "0.1.0",
-  "engines": { "vscode": "1.9.x" },
-  "categories": ["Snippets"],
-  "keywords": [
-    "snippets",
-    "git",
-    "emoji"
-  ],
-  "license": "SEE LICENSE IN LICENSE",
-  "homepage": "https://github.com/thierrymichel/vscode-gitmoji-snippets",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/thierrymichel/vscode-gitmoji-snippets.git"
-  },
-  "bugs": "https://github.com/thierrymichel/vscode-gitmoji-snippets/issues",
-  "contributes": {
-    "snippets": [
-      {
-        "language": "git-commit",
-        "path": "./snippets/git-commit.json"
-      }
-    ]
-  }
+    "name": "vscode-gitmoji-snippets",
+    "publisher": "thierrymichel",
+    "displayName": "Gitmoji snippets",
+    "description": "Easy-to-use emojis for your commit messages",
+    "icon": "images/gitmoji-icon.gif",
+    "galleryBanner": {
+        "color": "#ffdd4c",
+        "theme": "light"
+    },
+    "version": "0.1.1",
+    "engines": {
+        "vscode": "1.9.x"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+        "snippets",
+        "git",
+        "emoji"
+    ],
+    "license": "SEE LICENSE IN LICENSE",
+    "homepage": "https://github.com/thierrymichel/vscode-gitmoji-snippets",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thierrymichel/vscode-gitmoji-snippets.git"
+    },
+    "bugs": "https://github.com/thierrymichel/vscode-gitmoji-snippets/issues",
+    "contributes": {
+        "snippets": [
+            {
+                "language": "git-commit",
+                "path": "./snippets/git-commit.json"
+            }
+        ]
+    }
 }
