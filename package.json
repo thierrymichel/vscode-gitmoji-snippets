@@ -3,7 +3,7 @@
   "publisher": "thierrymichel",
   "displayName": "Gitmoji snippets",
   "description": "Easy-to-use emojis for your commit messages",
-  "icon": "images/gitmoji-icon.png",
+  "icon": "images/gitmoji-icon.gif",
   "galleryBanner": {
     "color": "#ffdd67",
     "theme": "dark"
