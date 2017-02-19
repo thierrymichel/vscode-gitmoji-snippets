@@ -1,174 +1,174 @@
 {
   "🎉 Initial commit": {
-    "prefix": ":release",
+    "prefix": ":e initial commit release",
     "body": ":tada: initial commit $1"
   },
   "✨ Introducing new features": {
-    "prefix": ":add",
+    "prefix": ":e add new",
     "body": ":sparkles: added $1"
   },
   "📝 Writing docs": {
-    "prefix": ":doc",
+    "prefix": ":e add update doc",
     "body": ":memo: $1"
   },
   "✏️ Fixing typos": {
-    "prefix": ":fix",
+    "prefix": ":e fix typo",
     "body": ":pencil2: fixed $1"
   },
   "🐛 Fixing a bug": {
-    "prefix": ":fix",
+    "prefix": ":e fix bug",
     "body": ":bug: fixed $1"
   },
   "💄 Updating the UI and style files": {
-    "prefix": ":update",
+    "prefix": ":e update file",
     "body": ":lipstick: updated $1"
   },
   "🍱 Adding assets": {
-    "prefix": ":add",
+    "prefix": ":e add file",
     "body": ":bento: added $1"
   },
   "🍱 Updating assets": {
-    "prefix": ":update",
+    "prefix": ":e update file",
     "body": ":bento: updated $1"
   },
   "🎨 Improving structure / format of the code": {
-    "prefix": ":code",
+    "prefix": ":e update code",
     "body": ":art: improved $1"
   },
   "⚡️ Improving performance": {
-    "prefix": ":update",
+    "prefix": ":e update performance",
     "body": ":zap: improved $1"
   },
   "👌 Updating code due to code review changes": {
-    "prefix": ":code",
+    "prefix": ":e update code",
     "body": ":ok_hand: updated $1"
   },
   "🚧 Work in progress": {
-    "prefix": ":wip",
+    "prefix": ":e work progress",
     "body": ":construction: $1"
   },
   "🔨 Refactoring code": {
-    "prefix": ":code",
+    "prefix": ":e update code",
     "body": ":hammer: refactored $1"
   },
   "🔥 Removing code": {
-    "prefix": ":code",
+    "prefix": ":e remove code",
     "body": ":fire: removed $1"
   },
   "🔥 Removing files": {
-    "prefix": ":remove",
+    "prefix": ":e remove file",
     "body": ":fire: removed $1"
   },
   "🚚 Moving or renaming files": {
-    "prefix": ":update",
+    "prefix": ":e update file",
     "body": ":truck: $1"
   },
   "🔧 Changing configuration files": {
-    "prefix": ":update",
+    "prefix": ":e update file config",
     "body": ":wrench: $1"
   },
   "➕ Adding a dependency": {
-    "prefix": ":add",
+    "prefix": ":e add dependency",
     "body": ":heavy_plus_sign: $1"
   },
   "➖ Removing a dependency": {
-    "prefix": ":remove",
+    "prefix": ":e remove dependency",
     "body": ":heavy_minus_sign: $1"
   },
   "⬆️ Upgrading dependencies": {
-    "prefix": ":update",
+    "prefix": ":e update dependency",
     "body": ":arrow_up: $1"
   },
   "⬇️ Downgrading dependencies": {
-    "prefix": ":update",
+    "prefix": ":e update dependency",
     "body": ":arrow_down: $1"
   },
   "🚀 Deploying stuff": {
-    "prefix": ":release",
+    "prefix": ":e release deploy",
     "body": ":rocket: $1"
   },
   "🔖 Releasing / Version tags": {
-    "prefix": ":release",
+    "prefix": ":e release version tag",
     "body": ":bookmark: $1"
   },
   "📈 Adding analytics or tracking code": {
-    "prefix": ":add",
+    "prefix": ":e add analytics tracking code",
     "body": ":chart_with_upwards_trend: $1"
   },
   "✅ Adding tests": {
-    "prefix": ":add",
+    "prefix": ":e add test",
     "body": ":white_check_mark: $1"
   },
   "💥 Introducing breaking changes": {
-    "prefix": ":update",
+    "prefix": ":e add new",
     "body": ":boom: $1"
   },
   "🚑 Critical hotfix": {
-    "prefix": ":fix",
+    "prefix": ":e fix",
     "body": ":ambulance: $1"
   },
   "🔒 Fixing security issues": {
-    "prefix": ":fix",
+    "prefix": ":e fix security",
     "body": ":lock: $1"
   },
   "🍎 Fixing something on macOS": {
-    "prefix": ":fix",
+    "prefix": ":e fix macos",
     "body": ":apple: $1"
   },
   "🐧 Fixing something on Linux": {
-    "prefix": ":fix",
+    "prefix": ":e fix linux",
     "body": ":penguin: $1"
   },
   "🏁 Fixing something on Windows": {
-    "prefix": ":fix",
+    "prefix": ":e fix windows",
     "body": ":checkered_flag: $1"
   },
   "💚 Fixing CI Build": {
-    "prefix": ":ci",
+    "prefix": ":e fix ci build",
     "body": ":green_heart: $1"
   },
   "👷 Adding CI build system": {
-    "prefix": ":ci",
+    "prefix": ":e add ci build",
     "body": ":construction_worker: $1"
   },
   "🚨 Removing linter warnings": {
-    "prefix": ":code",
+    "prefix": ":e update code linter",
     "body": ":rotating_light: $1"
   },
   "🐳 Work about Docker": {
-    "prefix": ":docker",
+    "prefix": ":e work docker",
     "body": ":whale: $1"
   },
   "🌐 Internationalization and localization": {
-    "prefix": ":lang",
+    "prefix": ":e lang i18n l10n",
     "body": ":globe_with_meridians: $1"
   },
   "💩 Writing bad code that needs to be improved": {
-    "prefix": ":code",
+    "prefix": ":e bad code",
     "body": ":hankey: $1"
   },
   "⏪ Reverting changes": {
-    "prefix": ":remove",
+    "prefix": ":e remove back",
     "body": ":rewind: $1"
   },
   "🔀 Merging branches": {
-    "prefix": ":update",
+    "prefix": ":e update merge branch",
     "body": ":twisted_rightwards_arrows: $1"
   },
   "📦 Updating compiled files or packages": {
-    "prefix": ":update",
+    "prefix": ":e update file",
     "body": ":package: $1"
   },
   "👽 Updating code due to external API changes": {
-    "prefix": ":update",
+    "prefix": ":e update code",
     "body": ":alien: $1"
   },
   "📄 Adding license": {
-    "prefix": ":add",
+    "prefix": ":e add license",
     "body": ":page_facing_up: $1"
   },
   "📄 Updating license": {
-    "prefix": ":update",
+    "prefix": ":e update license",
     "body": ":page_facing_up: $1"
   }
 }
