@@ -1,5 +1,9 @@
 # Change log
 
+## v2.0.2 _(03-03-2017)_
+
+* updated vscode engine version (1.10.x)
+
 ## v2.0.1 _(03-03-2017)_
 
 * added CHANGELOG
