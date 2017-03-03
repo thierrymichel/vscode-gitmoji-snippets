@@ -18,7 +18,7 @@ Using emojis on commit messages provides an easy way of identifying the purpose 
       editor = code -w
     ```
 3. Install the extension
-4. Commit something and start typing `:e` for __emoji__ ([see all prefixes here](snippets/git-commit.json))
+4. Commit something and start typing `gm` for __emoji__ ([see all prefixes here](snippets/git-commit.json))
 5. Enjoy!
 
 ## Frequently asked question

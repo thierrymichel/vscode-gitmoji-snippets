@@ -1,174 +1,174 @@
 {
   "🎉 Initial commit": {
-    "prefix": ":e initial commit release",
+    "prefix": "gm initial commit release",
     "body": ":tada: initial commit $1"
   },
   "✨ Introducing new features": {
-    "prefix": ":e add new",
+    "prefix": "gm add new",
     "body": ":sparkles: added $1"
   },
   "📝 Writing docs": {
-    "prefix": ":e add update doc",
+    "prefix": "gm add update doc",
     "body": ":memo: $1"
   },
   "✏️ Fixing typos": {
-    "prefix": ":e fix typo",
+    "prefix": "gm fix typo",
     "body": ":pencil2: fixed $1"
   },
   "🐛 Fixing a bug": {
-    "prefix": ":e fix bug",
+    "prefix": "gm fix bug",
     "body": ":bug: fixed $1"
   },
   "💄 Updating the UI and style files": {
-    "prefix": ":e update file",
+    "prefix": "gm update file",
     "body": ":lipstick: updated $1"
   },
   "🍱 Adding assets": {
-    "prefix": ":e add file",
+    "prefix": "gm add file",
     "body": ":bento: added $1"
   },
   "🍱 Updating assets": {
-    "prefix": ":e update file",
+    "prefix": "gm update file",
     "body": ":bento: updated $1"
   },
   "🎨 Improving structure / format of the code": {
-    "prefix": ":e update code",
+    "prefix": "gm update code",
     "body": ":art: improved $1"
   },
   "⚡️ Improving performance": {
-    "prefix": ":e update performance",
+    "prefix": "gm update performance",
     "body": ":zap: improved $1"
   },
   "👌 Updating code due to code review changes": {
-    "prefix": ":e update code",
+    "prefix": "gm update code",
     "body": ":ok_hand: updated $1"
   },
   "🚧 Work in progress": {
-    "prefix": ":e work progress",
+    "prefix": "gm work progress",
     "body": ":construction: $1"
   },
   "🔨 Refactoring code": {
-    "prefix": ":e update code",
+    "prefix": "gm update code",
     "body": ":hammer: refactored $1"
   },
   "🔥 Removing code": {
-    "prefix": ":e remove code",
+    "prefix": "gm remove code",
     "body": ":fire: removed $1"
   },
   "🔥 Removing files": {
-    "prefix": ":e remove file",
+    "prefix": "gm remove file",
     "body": ":fire: removed $1"
   },
   "🚚 Moving or renaming files": {
-    "prefix": ":e update file",
+    "prefix": "gm update file",
     "body": ":truck: $1"
   },
   "🔧 Changing configuration files": {
-    "prefix": ":e update file config",
+    "prefix": "gm update file config",
     "body": ":wrench: $1"
   },
   "➕ Adding a dependency": {
-    "prefix": ":e add dependency",
+    "prefix": "gm add dependency",
     "body": ":heavy_plus_sign: $1"
   },
   "➖ Removing a dependency": {
-    "prefix": ":e remove dependency",
+    "prefix": "gm remove dependency",
     "body": ":heavy_minus_sign: $1"
   },
   "⬆️ Upgrading dependencies": {
-    "prefix": ":e update dependency",
+    "prefix": "gm update dependency",
     "body": ":arrow_up: $1"
   },
   "⬇️ Downgrading dependencies": {
-    "prefix": ":e update dependency",
+    "prefix": "gm update dependency",
     "body": ":arrow_down: $1"
   },
   "🚀 Deploying stuff": {
-    "prefix": ":e release deploy",
+    "prefix": "gm release deploy",
     "body": ":rocket: $1"
   },
   "🔖 Releasing / Version tags": {
-    "prefix": ":e release version tag",
+    "prefix": "gm release version tag",
     "body": ":bookmark: $1"
   },
   "📈 Adding analytics or tracking code": {
-    "prefix": ":e add analytics tracking code",
+    "prefix": "gm add analytics tracking code",
     "body": ":chart_with_upwards_trend: $1"
   },
   "✅ Adding tests": {
-    "prefix": ":e add test",
+    "prefix": "gm add test",
     "body": ":white_check_mark: $1"
   },
   "💥 Introducing breaking changes": {
-    "prefix": ":e add new",
+    "prefix": "gm add new",
     "body": ":boom: $1"
   },
   "🚑 Critical hotfix": {
-    "prefix": ":e fix",
+    "prefix": "gm fix",
     "body": ":ambulance: $1"
   },
   "🔒 Fixing security issues": {
-    "prefix": ":e fix security",
+    "prefix": "gm fix security",
     "body": ":lock: $1"
   },
   "🍎 Fixing something on macOS": {
-    "prefix": ":e fix macos",
+    "prefix": "gm fix macos",
     "body": ":apple: $1"
   },
   "🐧 Fixing something on Linux": {
-    "prefix": ":e fix linux",
+    "prefix": "gm fix linux",
     "body": ":penguin: $1"
   },
   "🏁 Fixing something on Windows": {
-    "prefix": ":e fix windows",
+    "prefix": "gm fix windows",
     "body": ":checkered_flag: $1"
   },
   "💚 Fixing CI Build": {
-    "prefix": ":e fix ci build",
+    "prefix": "gm fix ci build",
     "body": ":green_heart: $1"
   },
   "👷 Adding CI build system": {
-    "prefix": ":e add ci build",
+    "prefix": "gm add ci build",
     "body": ":construction_worker: $1"
   },
   "🚨 Removing linter warnings": {
-    "prefix": ":e update code linter",
+    "prefix": "gm update code linter",
     "body": ":rotating_light: $1"
   },
   "🐳 Work about Docker": {
-    "prefix": ":e work docker",
+    "prefix": "gm work docker",
     "body": ":whale: $1"
   },
   "🌐 Internationalization and localization": {
-    "prefix": ":e lang i18n l10n",
+    "prefix": "gm lang i18n l10n",
     "body": ":globe_with_meridians: $1"
   },
   "💩 Writing bad code that needs to be improved": {
-    "prefix": ":e bad code",
+    "prefix": "gm bad code",
     "body": ":hankey: $1"
   },
   "⏪ Reverting changes": {
-    "prefix": ":e remove back",
+    "prefix": "gm remove back",
     "body": ":rewind: $1"
   },
   "🔀 Merging branches": {
-    "prefix": ":e update merge branch",
+    "prefix": "gm update merge branch",
     "body": ":twisted_rightwards_arrows: $1"
   },
   "📦 Updating compiled files or packages": {
-    "prefix": ":e update file",
+    "prefix": "gm update file",
     "body": ":package: $1"
   },
   "👽 Updating code due to external API changes": {
-    "prefix": ":e update code",
+    "prefix": "gm update code",
     "body": ":alien: $1"
   },
   "📄 Adding license": {
-    "prefix": ":e add license",
+    "prefix": "gm add license",
     "body": ":page_facing_up: $1"
   },
   "📄 Updating license": {
-    "prefix": ":e update license",
+    "prefix": "gm update license",
     "body": ":page_facing_up: $1"
   }
 }
