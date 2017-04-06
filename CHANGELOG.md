@@ -1,5 +1,10 @@
 # Change log
 
+## v2.1.0 _(06-04-2017)_
+
+- reordered snippets (follow website order)
+- added ♿️ and 💡
+
 ## v2.0.2 _(03-03-2017)_
 
 * updated vscode engine version (1.10.x)
