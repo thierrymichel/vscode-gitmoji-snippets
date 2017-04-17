@@ -8,7 +8,7 @@
         "color": "#ffdd4c",
         "theme": "light"
     },
-    "version": "2.2.0",
+    "version": "2.2.1",
     "engines": {
         "vscode": "1.10.x"
     },
