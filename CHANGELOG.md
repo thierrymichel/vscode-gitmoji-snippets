@@ -1,5 +1,9 @@
 # Change log
 
+## v2.1.1 _(17-04-2017)_
+
+- added 💬 and 🍻
+
 ## v2.1.0 _(06-04-2017)_
 
 - reordered snippets (follow website order)

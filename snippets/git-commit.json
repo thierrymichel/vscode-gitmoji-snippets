@@ -178,5 +178,17 @@
   "💡 Documenting source code": {
     "prefix": "gm code documentation",
     "body": ":bulb: documented $1"
+  },
+  "🍻 Writing code drunkenly": {
+    "prefix": "gm code drunk beer",
+    "body": ":beers: drunkenly coded $1"
+  },
+  "💬 Adding text and literals": {
+    "prefix": "gm add text",
+    "body": ":speech_balloon: added $1"
+  },
+  "💬 Updating text and literals": {
+    "prefix": "gm update text",
+    "body": ":speech_balloon: updated $1"
   }
 }
