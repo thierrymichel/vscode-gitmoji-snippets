@@ -1,5 +1,9 @@
 # Change log
 
+## v2.2.1 _(17-04-2017)_
+
+- :beers: fixed semver…
+
 ## v2.2.0 _(17-04-2017)_
 
 - added 💬 and 🍻
