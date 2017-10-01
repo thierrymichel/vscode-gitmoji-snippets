@@ -1,5 +1,17 @@
 # Change log
 
+## v2.3.0 _(01-10-2017)_
+
+- :page_facing_up: change (UN)LICENSE
+- :ok_hand: commit messages, switch from past to present
+- :sparkles: add:
+    - 🤖 Fixing something on Android
+    - 🍏 Fixing something on iOS
+    - 🗃 Performing database related changes
+    - 🔊 Adding logs
+    - 🔇 Removing logs
+    - 👥 Adding contributor(s)
+
 ## v2.2.1 _(17-04-2017)_
 
 - :beers: fixed semver…

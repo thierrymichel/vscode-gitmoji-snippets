@@ -1,23 +1,23 @@
 {
   "🎨 Improving structure / format of the code": {
     "prefix": "gm update code",
-    "body": ":art: improved $1"
+    "body": ":art: improve $1"
   },
   "⚡️ Improving performance": {
     "prefix": "gm update performance",
-    "body": ":zap: improved $1"
+    "body": ":zap: improve $1"
   },
   "🔥 Removing code": {
     "prefix": "gm remove code",
-    "body": ":fire: removed $1"
+    "body": ":fire: remove $1"
   },
   "🔥 Removing files": {
     "prefix": "gm remove file",
-    "body": ":fire: removed $1"
+    "body": ":fire: remove $1"
   },
   "🐛 Fixing a bug": {
     "prefix": "gm fix bug",
-    "body": ":bug: fixed $1"
+    "body": ":bug: fix $1"
   },
   "🚑 Critical hotfix": {
     "prefix": "gm fix",
@@ -25,7 +25,7 @@
   },
   "✨ Introducing new features": {
     "prefix": "gm add new",
-    "body": ":sparkles: added $1"
+    "body": ":sparkles: add $1"
   },
   "📝 Writing docs": {
     "prefix": "gm add update doc",
@@ -37,7 +37,7 @@
   },
   "💄 Updating the UI and style files": {
     "prefix": "gm update file",
-    "body": ":lipstick: updated $1"
+    "body": ":lipstick: update $1"
   },
   "🎉 Initial commit": {
     "prefix": "gm initial commit release",
@@ -49,19 +49,27 @@
   },
   "🔒 Fixing security issues": {
     "prefix": "gm fix security",
-    "body": ":lock: $1"
+    "body": ":lock: fix $1"
   },
   "🍎 Fixing something on macOS": {
     "prefix": "gm fix macos",
-    "body": ":apple: $1"
+    "body": ":apple: fix $1"
   },
   "🐧 Fixing something on Linux": {
     "prefix": "gm fix linux",
-    "body": ":penguin: $1"
+    "body": ":penguin: fix $1"
   },
   "🏁 Fixing something on Windows": {
     "prefix": "gm fix windows",
-    "body": ":checkered_flag: $1"
+    "body": ":checkered_flag: fix $1"
+  },
+  "🤖 Fixing something on Android": {
+    "prefix": "gm fix android",
+    "body": ":robot: fix $1"
+  },
+  "🍏 Fixing something on iOS": {
+    "prefix": "gm fix ios",
+    "body": ":green_apple: fix $1"
   },
   "🔖 Releasing / Version tags": {
     "prefix": "gm release version tag",
@@ -93,15 +101,15 @@
   },
   "📈 Adding analytics or tracking code": {
     "prefix": "gm add analytics tracking code",
-    "body": ":chart_with_upwards_trend: $1"
+    "body": ":chart_with_upwards_trend: add $1"
   },
   "🔨 Refactoring code": {
     "prefix": "gm update code",
-    "body": ":hammer: refactored $1"
+    "body": ":hammer: refactor $1"
   },
   "➖ Removing a dependency": {
     "prefix": "gm remove dependency",
-    "body": ":heavy_minus_sign: $1"
+    "body": ":heavy_minus_sign: remove $1"
   },
   "🐳 Work about Docker": {
     "prefix": "gm work docker",
@@ -109,11 +117,11 @@
   },
   "➕ Adding a dependency": {
     "prefix": "gm add dependency",
-    "body": ":heavy_plus_sign: $1"
+    "body": ":heavy_plus_sign: add $1"
   },
   "🔧 Changing configuration files": {
     "prefix": "gm update file config",
-    "body": ":wrench: $1"
+    "body": ":wrench: update $1"
   },
   "🌐 Internationalization and localization": {
     "prefix": "gm lang i18n l10n",
@@ -121,19 +129,19 @@
   },
   "✏️ Fixing typos": {
     "prefix": "gm fix typo",
-    "body": ":pencil2: fixed $1"
+    "body": ":pencil2: fix $1"
   },
   "💩 Writing bad code that needs to be improved": {
     "prefix": "gm bad code",
-    "body": ":hankey: $1"
+    "body": ":hankey: write $1"
   },
   "⏪ Reverting changes": {
     "prefix": "gm remove back",
-    "body": ":rewind: $1"
+    "body": ":rewind: revert $1"
   },
   "🔀 Merging branches": {
     "prefix": "gm update merge branch",
-    "body": ":twisted_rightwards_arrows: $1"
+    "body": ":twisted_rightwards_arrows: merge $1"
   },
   "📦 Updating compiled files or packages": {
     "prefix": "gm update file",
@@ -141,54 +149,74 @@
   },
   "👽 Updating code due to external API changes": {
     "prefix": "gm update code",
-    "body": ":alien: $1"
+    "body": ":alien: update $1"
   },
-  "🚚 Moving or renaming files": {
-    "prefix": "gm update file",
-    "body": ":truck: $1"
+  "🚚 Moving files": {
+    "prefix": "gm update move file",
+    "body": ":truck: move $1"
+  },
+  "🚚 Renaming files": {
+    "prefix": "gm update rename file",
+    "body": ":truck: rename $1"
   },
   "📄 Adding license": {
     "prefix": "gm add license",
-    "body": ":page_facing_up: $1"
+    "body": ":page_facing_up: add $1"
   },
   "📄 Updating license": {
     "prefix": "gm update license",
-    "body": ":page_facing_up: $1"
+    "body": ":page_facing_up: update $1"
   },
   "💥 Introducing breaking changes": {
     "prefix": "gm add new",
-    "body": ":boom: $1"
+    "body": ":boom: add $1"
   },
   "🍱 Adding assets": {
     "prefix": "gm add file",
-    "body": ":bento: added $1"
+    "body": ":bento: add $1"
   },
   "🍱 Updating assets": {
     "prefix": "gm update file",
-    "body": ":bento: updated $1"
+    "body": ":bento: update $1"
   },
   "👌 Updating code due to code review changes": {
     "prefix": "gm update code",
-    "body": ":ok_hand: updated $1"
+    "body": ":ok_hand: update $1"
   },
   "♿️ Improving accessibility": {
     "prefix": "gm improve accessibility",
-    "body": ":wheelchair: improved $1"
+    "body": ":wheelchair: improve $1"
   },
   "💡 Documenting source code": {
     "prefix": "gm code documentation",
-    "body": ":bulb: documented $1"
+    "body": ":bulb: document $1"
   },
   "🍻 Writing code drunkenly": {
     "prefix": "gm code drunk beer",
-    "body": ":beers: drunkenly coded $1"
+    "body": ":beers: drunkenly code $1"
   },
   "💬 Adding text and literals": {
     "prefix": "gm add text",
-    "body": ":speech_balloon: added $1"
+    "body": ":speech_balloon: add $1"
   },
   "💬 Updating text and literals": {
     "prefix": "gm update text",
-    "body": ":speech_balloon: updated $1"
+    "body": ":speech_balloon: update $1"
+  },
+  "🗃 Performing database related changes": {
+    "prefix": "gm db database",
+    "body": ":card_file_box: $1"
+  },
+  "🔊 Adding logs": {
+    "prefix": "gm add logs",
+    "body": ":loud_sound: add $1"
+  },
+  "🔇 Removing logs": {
+    "prefix": "gm remove logs",
+    "body": ":mute: remove $1"
+  },
+  "👥 Adding contributor(s)": {
+    "prefix": "gm add contributor",
+    "body": ":busts_in_silhouette: update $1"
   }
 }
