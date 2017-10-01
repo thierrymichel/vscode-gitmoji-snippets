@@ -1,6 +1,6 @@
 # Change log
 
-## v2.3.0 _(01-10-2017)_
+## v3.0.0 _(01-10-2017)_
 
 - :page_facing_up: change (UN)LICENSE
 - :ok_hand: commit messages, switch from past to present
