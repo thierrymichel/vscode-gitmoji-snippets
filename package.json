@@ -20,7 +20,7 @@
         "git",
         "emoji"
     ],
-    "license": "SEE LICENSE IN LICENSE",
+    "license": "SEE LICENSE IN UNLICENSE",
     "homepage": "https://github.com/thierrymichel/vscode-gitmoji-snippets",
     "repository": {
         "type": "git",
