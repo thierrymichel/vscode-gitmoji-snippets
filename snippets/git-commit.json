@@ -218,5 +218,9 @@
   "👥 Adding contributor(s)": {
     "prefix": "gm add contributor",
     "body": ":busts_in_silhouette: update $1"
+  },
+  "🚸 Improving user experience / usability": {
+    "prefix": "gm improve ux user experience usability",
+    "body": ":children_crossing: improve $1"
   }
 }

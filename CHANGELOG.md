@@ -1,5 +1,9 @@
 # Change log
 
+## v3.1.0 _(10-10-2017)_
+
+- :sparkles: add 🚸 Improving user experience / usability
+
 ## v3.0.1 _(01-10-2017)_
 
 - :page_facing_up: change (UN)LICENSE
