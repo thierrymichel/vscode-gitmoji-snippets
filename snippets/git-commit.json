@@ -217,10 +217,18 @@
   },
   "👥 Adding contributor(s)": {
     "prefix": "gm add contributor",
-    "body": ":busts_in_silhouette: update $1"
+    "body": ":busts_in_silhouette: add $1"
   },
   "🚸 Improving user experience / usability": {
     "prefix": "gm improve ux user experience usability",
     "body": ":children_crossing: improve $1"
+  },
+  "🏗 Making architectural changes": {
+    "prefix": "gm update architecture changes",
+    "body": ":building_construction: change $1"
+  },
+  "📱 Working on responsive design": {
+    "prefix": "gm responsive web design",
+    "body": ":iphone: adapt $1"
   }
 }

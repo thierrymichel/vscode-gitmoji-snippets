@@ -1,5 +1,10 @@
 # Change log
 
+## v3.1.1 _(10-01-2018)_
+
+- :sparkles: add 🏗 Making architectural changes
+- :sparkles: add 📱 Working on responsive design
+
 ## v3.1.0 _(10-10-2017)_
 
 - :sparkles: add 🚸 Improving user experience / usability
