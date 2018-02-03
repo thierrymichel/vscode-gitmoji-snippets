@@ -1,5 +1,9 @@
 # Change log
 
+## v3.2.0 _(03-02-2018)_
+
+- :sparkles: add 🤡 Mocking things
+
 ## v3.1.1 _(10-01-2018)_
 
 - :sparkles: add 🏗 Making architectural changes

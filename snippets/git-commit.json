@@ -230,5 +230,9 @@
   "📱 Working on responsive design": {
     "prefix": "gm responsive web design",
     "body": ":iphone: adapt $1"
+  },
+  "🤡 Mocking things": {
+    "prefix": "gm mocking",
+    "body": ":clown_face: mock $1"
   }
 }
