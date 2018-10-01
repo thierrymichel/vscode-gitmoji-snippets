@@ -1,5 +1,7 @@
 # "gitmoji" snippets package for Visual Studio Code
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/thierrymichel/vscode-gitmoji-snippets.svg)](https://greenkeeper.io/)
+
 > Inspired by <a href="https://gitmoji.carloscuesta.me"><img src="https://cloud.githubusercontent.com/assets/7629661/20073135/4e3db2c2-a52b-11e6-85e1-661a8212045a.gif" width="80" alt="gitmoji" style="vertical-align: middle;"></a>
 
 This extension helps you to add emoji on your commit messages.
