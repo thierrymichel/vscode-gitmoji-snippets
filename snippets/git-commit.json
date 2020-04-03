@@ -39,7 +39,7 @@
     "prefix": "gm initial commit",
     "body": ":tada: initial commit $1"
   },
-  "✅ Adding tests": {
+  "✅ Updating tests": {
     "prefix": "gm add/update tests",
     "body": ":white_check_mark: $1"
   },
@@ -83,13 +83,13 @@
     "prefix": "gm fix ci build",
     "body": ":green_heart: $1"
   },
-  "⬆️ Upgrading dependencies": {
-    "prefix": "gm update dependency",
-    "body": ":arrow_up: $1"
-  },
   "⬇️ Downgrading dependencies": {
     "prefix": "gm downgrade dependency",
     "body": ":arrow_down: $1"
+  },
+  "⬆️ Upgrading dependencies": {
+    "prefix": "gm update dependency",
+    "body": ":arrow_up: $1"
   },
   "👷 Adding CI build system": {
     "prefix": "gm add ci build",
@@ -103,10 +103,6 @@
     "prefix": "gm update code",
     "body": ":recycle: refactor $1"
   },
-  "➖ Removing a dependency": {
-    "prefix": "gm remove dependency",
-    "body": ":heavy_minus_sign: remove $1"
-  },
   "🐳 Work about Docker": {
     "prefix": "gm work docker",
     "body": ":whale: $1"
@@ -114,6 +110,10 @@
   "➕ Adding a dependency": {
     "prefix": "gm add dependency",
     "body": ":heavy_plus_sign: add $1"
+  },
+  "➖ Removing a dependency": {
+    "prefix": "gm remove dependency",
+    "body": ":heavy_minus_sign: remove $1"
   },
   "🔧 Changing configuration files": {
     "prefix": "gm update file config",
