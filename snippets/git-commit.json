@@ -4,15 +4,11 @@
     "body": ":art: improve $1"
   },
   "⚡️ Improving performance": {
-    "prefix": "gm update performance",
+    "prefix": "gm improve performance",
     "body": ":zap: improve $1"
   },
-  "🔥 Removing code": {
+  "🔥 Removing code or files": {
     "prefix": "gm remove code",
-    "body": ":fire: remove $1"
-  },
-  "🔥 Removing files": {
-    "prefix": "gm remove file",
     "body": ":fire: remove $1"
   },
   "🐛 Fixing a bug": {
@@ -29,22 +25,22 @@
   },
   "📝 Writing docs": {
     "prefix": "gm add update doc",
-    "body": ":memo: $1"
+    "body": ":pencil: $1"
   },
   "🚀 Deploying stuff": {
     "prefix": "gm release deploy",
     "body": ":rocket: $1"
   },
   "💄 Updating the UI and style files": {
-    "prefix": "gm update file",
+    "prefix": "gm update UI & style files",
     "body": ":lipstick: update $1"
   },
   "🎉 Initial commit": {
-    "prefix": "gm initial commit release",
+    "prefix": "gm initial commit",
     "body": ":tada: initial commit $1"
   },
-  "✅ Adding tests": {
-    "prefix": "gm add test",
+  "✅ Updating tests": {
+    "prefix": "gm add/update tests",
     "body": ":white_check_mark: $1"
   },
   "🔒 Fixing security issues": {
@@ -87,13 +83,17 @@
     "prefix": "gm fix ci build",
     "body": ":green_heart: $1"
   },
+  "⬇️ Downgrading dependencies": {
+    "prefix": "gm downgrade dependency",
+    "body": ":arrow_down: $1"
+  },
   "⬆️ Upgrading dependencies": {
     "prefix": "gm update dependency",
     "body": ":arrow_up: $1"
   },
-  "⬇️ Downgrading dependencies": {
-    "prefix": "gm update dependency",
-    "body": ":arrow_down: $1"
+  "📌 Pinning dependencies to specific versions": {
+    "prefix": "gm pinning dependencies",
+    "body": ":pushpin: pinning $1"
   },
   "👷 Adding CI build system": {
     "prefix": "gm add ci build",
@@ -103,13 +103,9 @@
     "prefix": "gm add analytics tracking code",
     "body": ":chart_with_upwards_trend: add $1"
   },
-  "🔨 Refactoring code": {
+  "♻️ Refactoring code": {
     "prefix": "gm update code",
-    "body": ":hammer: refactor $1"
-  },
-  "➖ Removing a dependency": {
-    "prefix": "gm remove dependency",
-    "body": ":heavy_minus_sign: remove $1"
+    "body": ":recycle: refactor $1"
   },
   "🐳 Work about Docker": {
     "prefix": "gm work docker",
@@ -118,6 +114,10 @@
   "➕ Adding a dependency": {
     "prefix": "gm add dependency",
     "body": ":heavy_plus_sign: add $1"
+  },
+  "➖ Removing a dependency": {
+    "prefix": "gm remove dependency",
+    "body": ":heavy_minus_sign: remove $1"
   },
   "🔧 Changing configuration files": {
     "prefix": "gm update file config",
@@ -148,7 +148,7 @@
     "body": ":package: $1"
   },
   "👽 Updating code due to external API changes": {
-    "prefix": "gm update code",
+    "prefix": "gm update code API",
     "body": ":alien: update $1"
   },
   "🚚 Moving files": {
@@ -180,11 +180,11 @@
     "body": ":bento: update $1"
   },
   "👌 Updating code due to code review changes": {
-    "prefix": "gm update code",
+    "prefix": "gm update code review",
     "body": ":ok_hand: update $1"
   },
   "♿️ Improving accessibility": {
-    "prefix": "gm improve accessibility",
+    "prefix": "gm improve a11y accessibility",
     "body": ":wheelchair: improve $1"
   },
   "💡 Documenting source code": {
@@ -234,5 +234,77 @@
   "🤡 Mocking things": {
     "prefix": "gm mocking",
     "body": ":clown_face: mock $1"
+  },
+  "🥚 Adding an easter egg": {
+    "prefix": "gm easter egg",
+    "body": ":egg: add $1"
+  },
+  "🙈 Adding or updating a .gitignore file": {
+    "prefix": "gm ignore file",
+    "body": ":see_no_evil: ignore $1"
+  },
+  "📸 Adding snapshots": {
+    "prefix": "gm add snapshot",
+    "body": ":camera_flash: add $1"
+  },
+  "📸 Updating snapshots": {
+    "prefix": "gm update snapshot",
+    "body": ":camera_flash: update $1"
+  },
+  "⚗ Experimenting new things": {
+    "prefix": "gm experimental",
+    "body": ":alembic: $1"
+  },
+  "🔍 Improving SEO": {
+    "prefix": "gm improve seo",
+    "body": ":mag: $1"
+  },
+  "☸️ Work about Kubernetes": {
+    "prefix": "gm kubernetes",
+    "body": ":wheel_of_dharma: $1"
+  },
+  "🏷️ Adding types (Flow, TypeScript)": {
+    "prefix": "gm add types",
+    "body": ":label: add $1"
+  },
+  "🏷️ Updating types (Flow, TypeScript)": {
+    "prefix": "gm update types",
+    "body": ":label: update $1"
+  },
+  "🌱 Adding seed files": {
+    "prefix": "gm add seed",
+    "body": ":seedling: add $1"
+  },
+  "🌱 Updating seed files": {
+    "prefix": "gm update seed",
+    "body": ":seedling: update $1"
+  },
+  "🚩 Adding feature flags": {
+    "prefix": "gm add feature flag",
+    "body": ":triangular_flag_on_post: add $1"
+  },
+  "🚩 Updating feature flags": {
+    "prefix": "gm update feature flag",
+    "body": ":triangular_flag_on_post: update $1"
+  },
+  "🚩 Removing feature flags": {
+    "prefix": "gm remove feature flag",
+    "body": ":triangular_flag_on_post: remove $1"
+  },
+  "🥅 Catching errors": {
+    "prefix": "gm catch error",
+    "body": ":goal_net: catch $1"
+  },
+  "💫 Adding animations and transitions": {
+    "prefix": "gm add animation transition",
+    "body": ":dizzy: add $1"
+  },
+  "💫 Updating animations and transitions": {
+    "prefix": "gm update animation transition",
+    "body": ":dizzy: update $1"
+  },
+  "🗑 Deprecating code that needs to be cleaned up": {
+    "prefix": "gm deprecate code",
+    "body": ":wastebasket: deprecate $1"
   }
 }
