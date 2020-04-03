@@ -4,15 +4,11 @@
     "body": ":art: improve $1"
   },
   "⚡️ Improving performance": {
-    "prefix": "gm update performance",
+    "prefix": "gm improve performance",
     "body": ":zap: improve $1"
   },
-  "🔥 Removing code": {
+  "🔥 Removing code or files": {
     "prefix": "gm remove code",
-    "body": ":fire: remove $1"
-  },
-  "🔥 Removing files": {
-    "prefix": "gm remove file",
     "body": ":fire: remove $1"
   },
   "🐛 Fixing a bug": {
@@ -29,22 +25,22 @@
   },
   "📝 Writing docs": {
     "prefix": "gm add update doc",
-    "body": ":memo: $1"
+    "body": ":pencil: $1"
   },
   "🚀 Deploying stuff": {
     "prefix": "gm release deploy",
     "body": ":rocket: $1"
   },
   "💄 Updating the UI and style files": {
-    "prefix": "gm update file",
+    "prefix": "gm update UI & style files",
     "body": ":lipstick: update $1"
   },
   "🎉 Initial commit": {
-    "prefix": "gm initial commit release",
+    "prefix": "gm initial commit",
     "body": ":tada: initial commit $1"
   },
   "✅ Adding tests": {
-    "prefix": "gm add test",
+    "prefix": "gm add/update tests",
     "body": ":white_check_mark: $1"
   },
   "🔒 Fixing security issues": {
@@ -92,7 +88,7 @@
     "body": ":arrow_up: $1"
   },
   "⬇️ Downgrading dependencies": {
-    "prefix": "gm update dependency",
+    "prefix": "gm downgrade dependency",
     "body": ":arrow_down: $1"
   },
   "👷 Adding CI build system": {
@@ -103,9 +99,9 @@
     "prefix": "gm add analytics tracking code",
     "body": ":chart_with_upwards_trend: add $1"
   },
-  "🔨 Refactoring code": {
+  "♻️ Refactoring code": {
     "prefix": "gm update code",
-    "body": ":hammer: refactor $1"
+    "body": ":recycle: refactor $1"
   },
   "➖ Removing a dependency": {
     "prefix": "gm remove dependency",
@@ -148,7 +144,7 @@
     "body": ":package: $1"
   },
   "👽 Updating code due to external API changes": {
-    "prefix": "gm update code",
+    "prefix": "gm update code API",
     "body": ":alien: update $1"
   },
   "🚚 Moving files": {
@@ -180,11 +176,11 @@
     "body": ":bento: update $1"
   },
   "👌 Updating code due to code review changes": {
-    "prefix": "gm update code",
+    "prefix": "gm update code review",
     "body": ":ok_hand: update $1"
   },
   "♿️ Improving accessibility": {
-    "prefix": "gm improve accessibility",
+    "prefix": "gm improve a11y accessibility",
     "body": ":wheelchair: improve $1"
   },
   "💡 Documenting source code": {
